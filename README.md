@@ -24,8 +24,7 @@ Built by **Ajay Kumar Reddy Konduri** (MSc Cyber Security student, Dublin) while
 6. [Lessons learned](#6-lessons-learned)
 7. [Limitations and next steps](#7-limitations-and-next-steps)
 8. [Troubleshooting](#8-troubleshooting)
-9. [Push this project to GitHub](#9-push-this-project-to-github)
-10. [Project files](#10-project-files)
+9. [Project files](#10-project-files)
 
 ---
 

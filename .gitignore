@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+audit_log.csv
+access_review.csv
+.env
